@@ -1,0 +1,165 @@
+psnr mean of pat1 36.41883750171399
+psnr gaussian of pat1 35.80374066545748
+psnr median of pat1 34.13730602520418
+psnr wiener of pat1 34.13730602520418
+
+psnr mean of pat2 38.82908191895916
+psnr gaussian of pat2 38.23653194438553
+psnr median of pat2 35.761322471838554
+psnr wiener of pat2 35.761322471838554
+
+psnr mean of pat3 36.57422278022271
+psnr gaussian of pat3 36.15007412859376
+psnr median of pat3 34.79506964704887
+psnr wiener of pat3 34.79506964704887
+
+psnr mean of pat4 37.10920901070838
+psnr gaussian of pat4 36.385061950084484
+psnr median of pat4 34.398603205994036
+psnr wiener of pat4 34.398603205994036
+
+psnr mean of pat5 37.97762799038047
+psnr gaussian of pat5 37.32278023943829
+psnr median of pat5 35.05910824104881
+psnr wiener of pat5 35.05910824104881
+
+psnr mean of pat6 40.38902329876042
+psnr gaussian of pat6 39.813427915179375
+psnr median of pat6 36.800161132752194
+psnr wiener of pat6 36.800161132752194
+
+psnr mean of pat7 38.44330854186185
+psnr gaussian of pat7 37.5853173254469
+psnr median of pat7 35.15845839281137
+psnr wiener of pat7 35.15845839281137
+
+psnr mean of pat8 37.83040715030526
+psnr gaussian of pat8 37.23729884736149
+psnr median of pat8 35.15022362936362
+psnr wiener of pat8 35.15022362936362
+
+psnr mean of pat9 36.09687035430386
+psnr gaussian of pat9 35.34363732101228
+psnr median of pat9 33.29787441794332
+psnr wiener of pat9 33.29787441794332
+
+psnr mean of pat10 36.67878698877771
+psnr gaussian of pat10 35.92419166967421
+psnr median of pat10 34.00756113782571
+psnr wiener of pat10 34.00756113782571
+
+psnr mean of pat11 36.695792631853664
+psnr gaussian of pat11 36.23534329012428
+psnr median of pat11 34.624796674177475
+psnr wiener of pat11 34.624796674177475
+
+psnr mean of pat12 35.73102155025823
+psnr gaussian of pat12 35.25192695890594
+psnr median of pat12 33.82097928246052
+psnr wiener of pat12 33.82097928246052
+
+psnr mean of pat13 32.8514207882023
+psnr gaussian of pat13 32.57834094478264
+psnr median of pat13 32.71451951836607
+psnr wiener of pat13 32.71451951836607
+
+psnr mean of pat14 35.58897121593942
+psnr gaussian of pat14 35.02566997963688
+psnr median of pat14 33.40648054384887
+psnr wiener of pat14 33.40648054384887
+
+psnr mean of pat15 36.15438108650915
+psnr gaussian of pat15 35.43497092673138
+psnr median of pat15 33.60529541643221
+psnr wiener of pat15 33.60529541643221
+
+psnr mean of pat16 37.22268270596127
+psnr gaussian of pat16 36.76033026398412
+psnr median of pat16 35.10454253059328
+psnr wiener of pat16 35.10454253059328
+
+psnr mean of pat17 37.55670305934316
+psnr gaussian of pat17 37.04940941259988
+psnr median of pat17 35.35292906276193
+psnr wiener of pat17 35.35292906276193
+
+psnr mean of pat18 35.18739019213052
+psnr gaussian of pat18 34.632275865841926
+psnr median of pat18 33.20292400081547
+psnr wiener of pat18 33.20292400081547
+
+psnr mean of pat19 36.548308153094666
+psnr gaussian of pat19 36.23460665917155
+psnr median of pat19 35.12216067008309
+psnr wiener of pat19 35.12216067008309
+
+psnr mean of pat20 37.26546312684909
+psnr gaussian of pat20 36.71505533446049
+psnr median of pat20 34.75068151362638
+psnr wiener of pat20 34.75068151362638
+
+psnr mean of pat21 37.64512606959102
+psnr gaussian of pat21 37.06636670241738
+psnr median of pat21 34.79347443441958
+psnr wiener of pat21 34.79347443441958
+
+psnr mean of pat22 38.150929397438254
+psnr gaussian of pat22 37.51335020414568
+psnr median of pat22 35.30588632807439
+psnr wiener of pat22 35.30588632807439
+
+psnr mean of pat23 36.3739750514596
+psnr gaussian of pat23 35.787928211111414
+psnr median of pat23 34.09998554548324
+psnr wiener of pat23 34.09998554548324
+
+psnr mean of pat24 36.676539131865525
+psnr gaussian of pat24 36.159163660524385
+psnr median of pat24 34.376684990489494
+psnr wiener of pat24 34.376684990489494
+
+psnr mean of pat25 36.983944217935736
+psnr gaussian of pat25 36.29256391706797
+psnr median of pat25 34.32032738310441
+psnr wiener of pat25 34.32032738310441
+
+psnr mean of pat26 35.853279384924534
+psnr gaussian of pat26 35.18909986189787
+psnr median of pat26 33.63251200352346
+psnr wiener of pat26 33.63251200352346
+
+psnr mean of pat27 36.34267842197102
+psnr gaussian of pat27 35.75114629585723
+psnr median of pat27 33.862014797097224
+psnr wiener of pat27 33.862014797097224
+
+psnr mean of pat28 37.63760699592372
+psnr gaussian of pat28 37.10517781325874
+psnr median of pat28 35.12478999788694
+psnr wiener of pat28 35.12478999788694
+
+psnr mean of pat29 36.20893703299469
+psnr gaussian of pat29 35.697338018756675
+psnr median of pat29 34.03668463704528
+psnr wiener of pat29 34.03668463704528
+
+psnr mean of pat30 37.372758656526166
+psnr gaussian of pat30 36.745863708196765
+psnr median of pat30 34.54133721859081
+psnr wiener of pat30 34.54133721859081
+
+psnr mean of pat31 37.77096157212481
+psnr gaussian of pat31 37.00268607151809
+psnr median of pat31 34.45872302552733
+psnr wiener of pat31 34.45872302552733
+
+psnr mean of pat32 37.305467726884984
+psnr gaussian of pat32 36.552909133164626
+psnr median of pat32 34.32555839386366
+psnr wiener of pat32 34.32555839386366
+
+psnr mean of pat33 35.5505140219314
+psnr gaussian of pat33 34.87961911328234
+psnr median of pat33 33.12696261499007
+psnr wiener of pat33 33.12696261499007
+
